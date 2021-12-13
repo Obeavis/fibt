@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/fibt/static/css/main.ef4c1ce5.chunk.css",
-    "main.js": "/fibt/static/js/main.70ae6e20.chunk.js",
-    "main.js.map": "/fibt/static/js/main.70ae6e20.chunk.js.map",
-    "runtime-main.js": "/fibt/static/js/runtime-main.81e5c39a.js",
-    "runtime-main.js.map": "/fibt/static/js/runtime-main.81e5c39a.js.map",
-    "static/js/2.c906141c.chunk.js": "/fibt/static/js/2.c906141c.chunk.js",
-    "static/js/2.c906141c.chunk.js.map": "/fibt/static/js/2.c906141c.chunk.js.map",
-    "static/js/3.e874435a.chunk.js": "/fibt/static/js/3.e874435a.chunk.js",
-    "static/js/3.e874435a.chunk.js.map": "/fibt/static/js/3.e874435a.chunk.js.map",
+    "main.css": "/fibt/static/css/main.056f06cb.chunk.css",
+    "main.js": "/fibt/static/js/main.7959ba1e.chunk.js",
+    "main.js.map": "/fibt/static/js/main.7959ba1e.chunk.js.map",
+    "runtime-main.js": "/fibt/static/js/runtime-main.38e03086.js",
+    "runtime-main.js.map": "/fibt/static/js/runtime-main.38e03086.js.map",
+    "static/js/2.6365a776.chunk.js": "/fibt/static/js/2.6365a776.chunk.js",
+    "static/js/2.6365a776.chunk.js.map": "/fibt/static/js/2.6365a776.chunk.js.map",
+    "static/js/3.78efbbd5.chunk.js": "/fibt/static/js/3.78efbbd5.chunk.js",
+    "static/js/3.78efbbd5.chunk.js.map": "/fibt/static/js/3.78efbbd5.chunk.js.map",
     "index.html": "/fibt/index.html",
-    "static/css/main.ef4c1ce5.chunk.css.map": "/fibt/static/css/main.ef4c1ce5.chunk.css.map",
-    "static/js/2.c906141c.chunk.js.LICENSE.txt": "/fibt/static/js/2.c906141c.chunk.js.LICENSE.txt"
+    "static/css/main.056f06cb.chunk.css.map": "/fibt/static/css/main.056f06cb.chunk.css.map",
+    "static/js/2.6365a776.chunk.js.LICENSE.txt": "/fibt/static/js/2.6365a776.chunk.js.LICENSE.txt",
+    "static/media/dots.a4609f3d.svg": "/fibt/static/media/dots.a4609f3d.svg",
+    "static/media/fotos.b010be4b.png": "/fibt/static/media/fotos.b010be4b.png",
+    "static/media/logo-feliciencia.409943ee.svg": "/fibt/static/media/logo-feliciencia.409943ee.svg",
+    "static/media/logo-horizontal.0d111d6f.svg": "/fibt/static/media/logo-horizontal.0d111d6f.svg",
+    "static/media/logo.1c1de608.svg": "/fibt/static/media/logo.1c1de608.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.81e5c39a.js",
-    "static/js/2.c906141c.chunk.js",
-    "static/css/main.ef4c1ce5.chunk.css",
-    "static/js/main.70ae6e20.chunk.js"
+    "static/js/runtime-main.38e03086.js",
+    "static/js/2.6365a776.chunk.js",
+    "static/css/main.056f06cb.chunk.css",
+    "static/js/main.7959ba1e.chunk.js"
   ]
 }
