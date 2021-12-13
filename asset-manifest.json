@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fibt/static/css/main.056f06cb.chunk.css",
-    "main.js": "/fibt/static/js/main.7959ba1e.chunk.js",
-    "main.js.map": "/fibt/static/js/main.7959ba1e.chunk.js.map",
+    "main.js": "/fibt/static/js/main.d4193dc3.chunk.js",
+    "main.js.map": "/fibt/static/js/main.d4193dc3.chunk.js.map",
     "runtime-main.js": "/fibt/static/js/runtime-main.38e03086.js",
     "runtime-main.js.map": "/fibt/static/js/runtime-main.38e03086.js.map",
     "static/js/2.6365a776.chunk.js": "/fibt/static/js/2.6365a776.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.38e03086.js",
     "static/js/2.6365a776.chunk.js",
     "static/css/main.056f06cb.chunk.css",
-    "static/js/main.7959ba1e.chunk.js"
+    "static/js/main.d4193dc3.chunk.js"
   ]
 }
