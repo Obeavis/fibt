@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/fibt/static/css/main.056f06cb.chunk.css",
-    "main.js": "/fibt/static/js/main.d4193dc3.chunk.js",
-    "main.js.map": "/fibt/static/js/main.d4193dc3.chunk.js.map",
+    "main.css": "/fibt/static/css/main.1598f5d6.chunk.css",
+    "main.js": "/fibt/static/js/main.dcb5f08e.chunk.js",
+    "main.js.map": "/fibt/static/js/main.dcb5f08e.chunk.js.map",
     "runtime-main.js": "/fibt/static/js/runtime-main.38e03086.js",
     "runtime-main.js.map": "/fibt/static/js/runtime-main.38e03086.js.map",
-    "static/js/2.6365a776.chunk.js": "/fibt/static/js/2.6365a776.chunk.js",
-    "static/js/2.6365a776.chunk.js.map": "/fibt/static/js/2.6365a776.chunk.js.map",
+    "static/js/2.eea74064.chunk.js": "/fibt/static/js/2.eea74064.chunk.js",
+    "static/js/2.eea74064.chunk.js.map": "/fibt/static/js/2.eea74064.chunk.js.map",
     "static/js/3.78efbbd5.chunk.js": "/fibt/static/js/3.78efbbd5.chunk.js",
     "static/js/3.78efbbd5.chunk.js.map": "/fibt/static/js/3.78efbbd5.chunk.js.map",
     "index.html": "/fibt/index.html",
-    "static/css/main.056f06cb.chunk.css.map": "/fibt/static/css/main.056f06cb.chunk.css.map",
-    "static/js/2.6365a776.chunk.js.LICENSE.txt": "/fibt/static/js/2.6365a776.chunk.js.LICENSE.txt",
+    "static/css/main.1598f5d6.chunk.css.map": "/fibt/static/css/main.1598f5d6.chunk.css.map",
+    "static/js/2.eea74064.chunk.js.LICENSE.txt": "/fibt/static/js/2.eea74064.chunk.js.LICENSE.txt",
     "static/media/dots.a4609f3d.svg": "/fibt/static/media/dots.a4609f3d.svg",
-    "static/media/fotos.b010be4b.png": "/fibt/static/media/fotos.b010be4b.png",
-    "static/media/logo-feliciencia.409943ee.svg": "/fibt/static/media/logo-feliciencia.409943ee.svg",
+    "static/media/fotos.bd52547f.jpeg": "/fibt/static/media/fotos.bd52547f.jpeg",
+    "static/media/logo-felicidata.95b0dd0f.svg": "/fibt/static/media/logo-felicidata.95b0dd0f.svg",
+    "static/media/logo-feliciencia.3befb24c.svg": "/fibt/static/media/logo-feliciencia.3befb24c.svg",
     "static/media/logo-horizontal.0d111d6f.svg": "/fibt/static/media/logo-horizontal.0d111d6f.svg",
     "static/media/logo.1c1de608.svg": "/fibt/static/media/logo.1c1de608.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.38e03086.js",
-    "static/js/2.6365a776.chunk.js",
-    "static/css/main.056f06cb.chunk.css",
-    "static/js/main.d4193dc3.chunk.js"
+    "static/js/2.eea74064.chunk.js",
+    "static/css/main.1598f5d6.chunk.css",
+    "static/js/main.dcb5f08e.chunk.js"
   ]
 }
